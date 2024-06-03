@@ -41,6 +41,7 @@
 		36420B2C2C0E55E5009900A5 = {
 			isa = PBXGroup;
 			children = (
+				36420B6D2C0E6CAF009900A5 /* README.md */,
 				36420B372C0E55E5009900A5 /* CoreData_Test */,
 				36420B362C0E55E5009900A5 /* Products */,
 			);
@@ -59,7 +60,6 @@
 			children = (
 				36420B382C0E55E5009900A5 /* CoreData_TestApp.swift */,
 				36420B3A2C0E55E5009900A5 /* ContentView.swift */,
-				36420B6D2C0E6CAF009900A5 /* README.md */,
 				36420B462C0E5616009900A5 /* Model.xcdatamodeld */,
 				36420B492C0E5673009900A5 /* DataController.swift */,
 				36420B3C2C0E55E6009900A5 /* Assets.xcassets */,
